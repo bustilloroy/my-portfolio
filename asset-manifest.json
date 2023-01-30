@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.14ef2855.css",
-    "main.js": "/my-portfolio/static/js/main.55b9465f.js",
+    "main.js": "/my-portfolio/static/js/main.a3dc8f22.js",
     "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/landing-page.PNG": "/my-portfolio/static/media/landing-page.8631b3fe17b93bc52976.PNG",
     "static/media/barong-grad-pic.png": "/my-portfolio/static/media/barong-grad-pic.12262472a3fd1c960ad5.png",
-    "static/media/Bustillo_Roy_CV.pdf": "/my-portfolio/static/media/Bustillo_Roy_CV.b14d43b94f09e7a65db2.pdf",
+    "static/media/Bustillo_Roy_CV.pdf": "/my-portfolio/static/media/Bustillo_Roy_CV.e95335348cd9f73fa552.pdf",
     "static/media/—Pngtree—png free buckle blue gradient_3781709.png": "/my-portfolio/static/media/—Pngtree—png free buckle blue gradient_3781709.c0a19f2a45b173c27147.png",
     "static/media/bootstrap-icons.woff?": "/my-portfolio/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
-    "static/media/cv1.PNG": "/my-portfolio/static/media/cv1.cda3a32af5e03819c1ec.PNG",
     "static/media/bootstrap-icons.woff2?": "/my-portfolio/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "static/media/documentation.PNG": "/my-portfolio/static/media/documentation.efc0b38587b8b488238c.PNG",
-    "static/media/cv2.PNG": "/my-portfolio/static/media/cv2.bb81c56efa932edb526b.PNG",
+    "static/media/cv1.PNG": "/my-portfolio/static/media/cv1.acf56fd149464f9080e8.PNG",
+    "static/media/cv2.PNG": "/my-portfolio/static/media/cv2.8a585eb3df6b5ce70560.PNG",
     "static/media/tenzies.PNG": "/my-portfolio/static/media/tenzies.0a3248d2fe8e2ef3d7cc.PNG",
     "static/media/undraw_programming_re_kg9v.svg": "/my-portfolio/static/media/undraw_programming_re_kg9v.e7fd0478451b8d72ff9b.svg",
     "static/media/pngkit_hexagon-png_240879.png": "/my-portfolio/static/media/pngkit_hexagon-png_240879.4b81cfa32bbf4dd75a0a.png",
@@ -33,11 +33,11 @@
     "static/media/css_3_lv0o41a9xkab.svg": "/my-portfolio/static/media/css_3_lv0o41a9xkab.b253cf28d6c6da15a63a.svg",
     "static/media/tailwind-css-1.svg": "/my-portfolio/static/media/tailwind-css-1.315d0ac2a2708d5f0697.svg",
     "main.14ef2855.css.map": "/my-portfolio/static/css/main.14ef2855.css.map",
-    "main.55b9465f.js.map": "/my-portfolio/static/js/main.55b9465f.js.map",
+    "main.a3dc8f22.js.map": "/my-portfolio/static/js/main.a3dc8f22.js.map",
     "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14ef2855.css",
-    "static/js/main.55b9465f.js"
+    "static/js/main.a3dc8f22.js"
   ]
 }
