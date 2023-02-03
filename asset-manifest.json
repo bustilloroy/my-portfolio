@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.14ef2855.css",
-    "main.js": "/my-portfolio/static/js/main.a3dc8f22.js",
+    "main.css": "/my-portfolio/static/css/main.482219d8.css",
+    "main.js": "/my-portfolio/static/js/main.e5cab1d3.js",
     "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/landing-page.PNG": "/my-portfolio/static/media/landing-page.8631b3fe17b93bc52976.PNG",
     "static/media/barong-grad-pic.png": "/my-portfolio/static/media/barong-grad-pic.12262472a3fd1c960ad5.png",
@@ -32,12 +32,13 @@
     "static/media/php-1.svg": "/my-portfolio/static/media/php-1.7c41b19923da57634a76.svg",
     "static/media/css_3_lv0o41a9xkab.svg": "/my-portfolio/static/media/css_3_lv0o41a9xkab.b253cf28d6c6da15a63a.svg",
     "static/media/tailwind-css-1.svg": "/my-portfolio/static/media/tailwind-css-1.315d0ac2a2708d5f0697.svg",
-    "main.14ef2855.css.map": "/my-portfolio/static/css/main.14ef2855.css.map",
-    "main.a3dc8f22.js.map": "/my-portfolio/static/js/main.a3dc8f22.js.map",
+    "static/media/check2-circle.svg": "/my-portfolio/static/media/check2-circle.001ff82b03f147d20741be04d2da57d8.svg",
+    "main.482219d8.css.map": "/my-portfolio/static/css/main.482219d8.css.map",
+    "main.e5cab1d3.js.map": "/my-portfolio/static/js/main.e5cab1d3.js.map",
     "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14ef2855.css",
-    "static/js/main.a3dc8f22.js"
+    "static/css/main.482219d8.css",
+    "static/js/main.e5cab1d3.js"
   ]
 }
