@@ -6,6 +6,7 @@ import Projects from './components/Projects'
 import About from './components/About'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import Certification from './components/Certification'
 
 // Frameworks
 import 'bootstrap/dist/css/bootstrap.min.css'
@@ -31,8 +32,12 @@ function App() {
     AOS.init();
   }, []);
 
+  function lightMode() {
+    setThemeMode(false);
+  }
+
   function handleClick () {
-    setThemeMode(prevMode => !prevMode);
+    setThemeMode(true);
   }
 
   const [basicSkillsData] = useState(data.map(item => {return item}));
@@ -47,12 +52,13 @@ function App() {
 
   return (
     <>
-      <Header handleClick={handleClick} themeMode = {themeMode}/>
+      <Header handleClick={handleClick} lightMode={lightMode} themeMode = {themeMode}/>
       <Hero themeMode={themeMode}/>
       <Skills row={basicSkillsData} row2={frameWorkSkillsData} themeMode={themeMode}/>
       <Projects card={project} themeMode={themeMode}/>
       <About themeMode={themeMode} timeLine={about} datas={datas}/>
       <Contact themeMode={themeMode} />
+      <Certification themeMode={themeMode}/>
       <Footer themeMode={themeMode}/>
     </>
   );

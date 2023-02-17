@@ -24,17 +24,25 @@ export default function Header(props) {
         <button className="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navmenu" aria-controls="navmenu"><span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navmenu" aria-expanded="false">
-          <ul className="navbar-nav navbar-nav-scroll ms-auto pe-2" id="navItem">
-            <li className={`nav-item ${props.themeMode ? 'white-line' : 'black-line'}`}><a href="#skills" className="nav-link">Skills</a></li>
-            <li className={`nav-item ${props.themeMode ? 'white-line' : 'black-line'}`}><a href="#projects" className="nav-link">Personal Projects</a></li>
-            <li className={`nav-item ${props.themeMode ? 'white-line' : 'black-line'}`}><a href="#about" className="nav-link">About</a></li>
-            <li className={`nav-item ${props.themeMode ? 'white-line' : 'black-line'}`}><a href="#contact" className="nav-link">Contact</a></li>
+          <ul className="navbar-nav navbar-nav-scroll ms-auto text-center" id="navItem">
+            <li>
+              <a href="#skills" className="nav-link">Skills</a>
+            </li>
+            <li>
+              <a href="#projects" className="nav-link">Personal Projects</a>
+            </li>
+            <li>
+              <a href="#about" className="nav-link">About</a>
+            </li>
+            <li>
+              <a href="#contact" className="nav-link">Contact</a>
+            </li>
             <div className="vr d-none d-lg-flex"></div>
-            <li className='nav-item'>
+            <li>
               <div className="dropdown">
                 <button className="nav-link theme" type='button' id='theme' data-bs-toggle='dropdown' onClick={dropTheme}>{props.themeMode ? <i className="bi bi-moon-stars-fill"></i> : <i className="bi bi-brightness-high-fill"></i>}&nbsp;{show ? <i className="bi bi-caret-up-fill"></i> : <i className="bi bi-caret-down-fill"></i>}</button>
                 <ul className="dropdown-menu dropdown-menu-end">
-                  <li className="dropdown-item" onClick={props.handleClick}>
+                  <li className="dropdown-item" onClick={props.lightMode}>
                     <button type='button' className="btn" style={{border: 'none'}}><i className="bi bi-brightness-high-fill"></i>&nbsp;Light</button>
                   </li> 
                   <li className="dropdown-item" onClick={props.handleClick}>
