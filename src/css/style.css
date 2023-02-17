@@ -173,11 +173,6 @@ input:checked + .slider:before {
     z-index: -1;
 }
 
-.blob {
-    animation: blob 10s infinite;
-    z-index: -1;
-}
-
 .bg-dark {
     color: #fff;
 }
@@ -295,6 +290,13 @@ input:checked + .slider:before {
     display: flex;
     align-self: center;
     justify-self: center;
+}
+
+/* Certification Section */
+
+#certification {
+    padding: 2rem 0;
+    overflow: hidden;
 }
 
 /* Footer Section */

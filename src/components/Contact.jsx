@@ -77,11 +77,9 @@ export default function Contact(props) {
                       </div>
                       <button type="submit" className="btn btn-primary float-end open-modal" id='submit'>Submit</button>
                     </form>
-                    
                   </div>
               </div>
           </div>
-          
           <div className="col-12 col-md-6" data-aos='fade-left'>
             <div className={`card contact-card ${props.themeMode ? 'bg-dark border shadow-light' : 'bg-light shadow-lg'}`}>
               <div className={`card-header h4 ${props.themeMode ? 'text-gradient' : ''}`}>Contact</div>
