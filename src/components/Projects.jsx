@@ -23,7 +23,7 @@ export default function Projects(props) {
                         <a href={item.codeLink} className={`btn btn${props.themeMode ? '' : '-outline'}-primary`} target='_blank' rel='noreferrer'><i className="bi bi-box-arrow-right"></i> View Code</a>
                       </div>
                       <div className='card-body'>
-                        <h5 className='card-title'>Tools :</h5>
+                        <h5 className='card-title'>Toolss :</h5>
                         {item.tools.map((item, index) => {
                           return (
                             <img src={require(`../images/${item}`)} key={index} className='mx-1' style={{width: 30}} alt=''/>
