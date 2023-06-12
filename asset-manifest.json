@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.a903c398.css",
-    "main.js": "/my-portfolio/static/js/main.66845075.js",
+    "main.css": "/my-portfolio/static/css/main.86204d60.css",
+    "main.js": "/my-portfolio/static/js/main.bd67f7b7.js",
     "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/landing-page.PNG": "/my-portfolio/static/media/landing-page.8631b3fe17b93bc52976.PNG",
+    "static/media/alcon.PNG": "/my-portfolio/static/media/alcon.ddada85418803c487b5e.PNG",
     "static/media/barong-grad-pic.png": "/my-portfolio/static/media/barong-grad-pic.12262472a3fd1c960ad5.png",
-    "static/media/Bustillo_Roy_CV.pdf": "/my-portfolio/static/media/Bustillo_Roy_CV.e95335348cd9f73fa552.pdf",
     "static/media/—Pngtree—png free buckle blue gradient_3781709.png": "/my-portfolio/static/media/—Pngtree—png free buckle blue gradient_3781709.c0a19f2a45b173c27147.png",
     "static/media/bootstrap-icons.woff?": "/my-portfolio/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/my-portfolio/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
@@ -17,6 +17,7 @@
     "static/media/tenzies.PNG": "/my-portfolio/static/media/tenzies.0a3248d2fe8e2ef3d7cc.PNG",
     "static/media/undraw_programming_re_kg9v.svg": "/my-portfolio/static/media/undraw_programming_re_kg9v.e7fd0478451b8d72ff9b.svg",
     "static/media/pngkit_hexagon-png_240879.png": "/my-portfolio/static/media/pngkit_hexagon-png_240879.4b81cfa32bbf4dd75a0a.png",
+    "static/media/ROY JR P.docx": "/my-portfolio/static/media/ROY JR P.73aaafc04573cb2ab0c1.docx",
     "static/media/undraw_target_re_fi8j.svg": "/my-portfolio/static/media/undraw_target_re_fi8j.d76dfe8db098fd6714c0b82cafe50eb5.svg",
     "static/media/calculator1.PNG": "/my-portfolio/static/media/calculator1.eda44d3baa512c6fbdaa.PNG",
     "static/media/microsoft-sql-server-1.svg": "/my-portfolio/static/media/microsoft-sql-server-1.faf9645db7accb5d88a4.svg",
@@ -32,15 +33,17 @@
     "static/media/bootstrap_pkwwyyr236gl.svg": "/my-portfolio/static/media/bootstrap_pkwwyyr236gl.e0e1ad2123da39853142.svg",
     "static/media/logo-javascript.svg": "/my-portfolio/static/media/logo-javascript.00f3e5cf8bcf4ae623b3.svg",
     "static/media/php-1.svg": "/my-portfolio/static/media/php-1.7c41b19923da57634a76.svg",
+    "static/media/typescript.svg": "/my-portfolio/static/media/typescript.a6305a733dd55243980a.svg",
     "static/media/css_3_lv0o41a9xkab.svg": "/my-portfolio/static/media/css_3_lv0o41a9xkab.b253cf28d6c6da15a63a.svg",
     "static/media/tailwind-css-1.svg": "/my-portfolio/static/media/tailwind-css-1.315d0ac2a2708d5f0697.svg",
+    "static/media/material-ui-1.svg": "/my-portfolio/static/media/material-ui-1.fd510ed8518b19206959.svg",
     "static/media/check2-circle.svg": "/my-portfolio/static/media/check2-circle.001ff82b03f147d20741be04d2da57d8.svg",
-    "main.a903c398.css.map": "/my-portfolio/static/css/main.a903c398.css.map",
-    "main.66845075.js.map": "/my-portfolio/static/js/main.66845075.js.map",
+    "main.86204d60.css.map": "/my-portfolio/static/css/main.86204d60.css.map",
+    "main.bd67f7b7.js.map": "/my-portfolio/static/js/main.bd67f7b7.js.map",
     "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a903c398.css",
-    "static/js/main.66845075.js"
+    "static/css/main.86204d60.css",
+    "static/js/main.bd67f7b7.js"
   ]
 }
