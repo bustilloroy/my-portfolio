@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.8b8bcc42.css",
-    "main.js": "/my-portfolio/static/js/main.4bd97a28.js",
+    "main.js": "/my-portfolio/static/js/main.7851ef79.js",
     "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/landing-page.PNG": "/my-portfolio/static/media/landing-page.8631b3fe17b93bc52976.PNG",
     "static/media/alcon.PNG": "/my-portfolio/static/media/alcon.ddada85418803c487b5e.PNG",
@@ -10,13 +10,13 @@
     "static/media/bootstrap-icons.woff?": "/my-portfolio/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/my-portfolio/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "static/media/documentation.PNG": "/my-portfolio/static/media/documentation.efc0b38587b8b488238c.PNG",
-    "static/media/cv1.PNG": "/my-portfolio/static/media/cv1.acf56fd149464f9080e8.PNG",
     "static/media/payroll.PNG": "/my-portfolio/static/media/payroll.62ae023b7a3c8d636594.PNG",
     "static/media/JavaScript_Algorithms_and_Data_Structures.PNG": "/my-portfolio/static/media/JavaScript_Algorithms_and_Data_Structures.2a525c3267e1a9bbd567.PNG",
     "static/media/Responsice_Web_Design_Certification.PNG": "/my-portfolio/static/media/Responsice_Web_Design_Certification.1eb451c3b8ca87280fe0.PNG",
-    "static/media/cv2.PNG": "/my-portfolio/static/media/cv2.8a585eb3df6b5ce70560.PNG",
     "static/media/tenzies.PNG": "/my-portfolio/static/media/tenzies.0a3248d2fe8e2ef3d7cc.PNG",
+    "static/media/cv1.PNG": "/my-portfolio/static/media/cv1.5924c30a4e81758e87d0.PNG",
     "static/media/undraw_programming_re_kg9v.svg": "/my-portfolio/static/media/undraw_programming_re_kg9v.e7fd0478451b8d72ff9b.svg",
+    "static/media/cv2.PNG": "/my-portfolio/static/media/cv2.745a5399d16e77b0d814.PNG",
     "static/media/pngkit_hexagon-png_240879.png": "/my-portfolio/static/media/pngkit_hexagon-png_240879.4b81cfa32bbf4dd75a0a.png",
     "static/media/ROY JR P.docx": "/my-portfolio/static/media/ROY JR P.73aaafc04573cb2ab0c1.docx",
     "static/media/undraw_target_re_fi8j.svg": "/my-portfolio/static/media/undraw_target_re_fi8j.d76dfe8db098fd6714c0b82cafe50eb5.svg",
@@ -42,11 +42,11 @@
     "static/media/material-ui-1.svg": "/my-portfolio/static/media/material-ui-1.fd510ed8518b19206959.svg",
     "static/media/check2-circle.svg": "/my-portfolio/static/media/check2-circle.e7ab9d9d46bbb9b6c05e637e04ca5963.svg",
     "main.8b8bcc42.css.map": "/my-portfolio/static/css/main.8b8bcc42.css.map",
-    "main.4bd97a28.js.map": "/my-portfolio/static/js/main.4bd97a28.js.map",
+    "main.7851ef79.js.map": "/my-portfolio/static/js/main.7851ef79.js.map",
     "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b8bcc42.css",
-    "static/js/main.4bd97a28.js"
+    "static/js/main.7851ef79.js"
   ]
 }
